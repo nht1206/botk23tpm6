@@ -18,7 +18,7 @@
     "ffmpeg": "0.0.4",
     "fluent-ffmpeg": "~2.1.2",
     "google-translate-api": "~2.3.0",
-    "mongoose": "~5.1.4",
+    "mongoose": "~5.7.5",
     "morgan": "~1.9.0",
     "request": "^2.87.0",
     "ytdl-core": "^0.20.4"
